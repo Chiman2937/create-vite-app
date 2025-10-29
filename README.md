@@ -15,7 +15,6 @@ Vite 프로젝트 기본 세팅
 - **ESLint** - 코드 품질 검사 및 자동 수정
   - Import 자동 정렬 지원 (simple-import-sort)
   - JSX 속성 자동 정렬 지원 (perfectionist)
-  - Next.js 규칙 검사
 - **Prettier** - 코드 포매팅
   - Tailwind CSS 클래스 정렬 지원
 - **Husky + lint-staged** - Git hooks를 통한 커밋 전 자동 검사
